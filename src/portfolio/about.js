@@ -13,8 +13,9 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a developer at a leading Investment Bank. Love solving real world problems using technology. My experience as developer in Financial Market domain made me realise how much of an impact a simple line of code can make <i>(well no one likes tech glitches in billions of $ transactions :) )</i>. Into Software and Web devlopment for a living. My new found interest is harnessing the power of data using Machine learning alogrithms, still in the exploration phase excited to learn more about it.</p>
-                    <p>Apart from the above I like to explore "Homo Sapiens's <i>(The apparent wise men)</i>journey through history" and "The Cosmos <i>(Earth is round period)</i>"</p>
+                    <p>I am a developer at a leading Investment Bank. Love solving real world problems using technology. My experience as a developer in Financial Market domain has made me realise how much of an impact a simple line of code can make <i>(Well, No one likes tech glitches in billions of $ transactions.)</i>. Work in progress Software and Web Development Professional . My new found interest is harnessing the power of data using Machine learning alogrithms, still in the exploration phase excited to learn more about it.</p>
+                    <p>Apart from the above I like to explore "Homo Sapiens's <i>(The self-proclaimed wise men)</i> journey through history" and Learning about "The Cosmos" with Carl Sagan and Neil deGrasse Tyson <i>(Earth is round period).</i></p>
+                    <p>Aesthete of Hindi Poetry <i>(sometimes I write as well)</i>, TBBT >>>>>> Any other Sitcom on Earth <i>(B99 Closing up the Gap)</i></p>
                     </div>
                 </div>
                 </div>
@@ -38,9 +39,8 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience in building WebApps using JavaScript,React,HTML,CSS</p>
-                    <br/>
-                    <br/>
+                    <p>I have experience in building WebApps using</p>
+                    <p>JavaScript,React,HTML,CSS</p>
                 </div>
                 </div>
             </div>
