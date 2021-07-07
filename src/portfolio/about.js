@@ -38,7 +38,9 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience in building webApps using JavaScript,React,HTML,CSS</p>
+                    <p>I have experience in building WebApps using JavaScript,React,HTML,CSS</p>
+                    <br/>
+                    <br/>
                 </div>
                 </div>
             </div>
@@ -61,6 +63,8 @@ export default class About extends Component {
                 <div className="desc">
                     <h3>Problem Solving</h3>
                     <p>Provide Technological Solutions For Real World Problems</p>
+                    <br/>
+                    <br/>
                 </div>
                 </div>
             </div>

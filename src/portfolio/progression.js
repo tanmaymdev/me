@@ -1,6 +1,6 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 
-export default class Timeline extends Component {
+ export default class Timeline extends Component {
   render() {
     return (
       <div>
@@ -22,7 +22,8 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Developer at Standard Chartered GBS-India <span>  Jun'19-present</span></h2>
-                        <p>Essaying the role of Full Stack Developer in Technology and Innovation Unit for Financial Markets Domain</p><p>Part of Razor Project Development Squad, Razor is multi-year delivery project aimed to increase the automation and agility of post-trade life cycle in various markets across the globe</p><p>Working on leading development technologies and frameworks like ReactJS, Spring Boot, AWS, etc.</p>
+                        <p>Essaying the role of Full Stack Developer in Technology and Innovation Unit for Financial Markets Domain</p><p>Part of Razor Project Development Squad, Razor is multi-year delivery project aimed to increase the automation and agility of post-trade life cycle in various markets across the globe</p>
+                        <p>Working on leading development technologies and frameworks like ReactJS, Spring Boot, AWS, etc.</p>
                       </div>
                     </div>
                   </article>
