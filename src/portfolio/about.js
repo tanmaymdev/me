@@ -13,9 +13,9 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a developer at a leading Investment Bank. Love solving real world problems using technology. My experience as a developer in Financial Market domain has made me realise how much of an impact a simple line of code can make <i>(Well, No one likes tech glitches in billions of $ transactions.)</i>. Work in progress Software and Web Development Professional . My new found interest is harnessing the power of data using Machine learning alogrithms, still in the exploration phase excited to learn more about it.</p>
-                    <p>Apart from the above I like to explore "Homo Sapiens's <i>(The self-proclaimed wise men)</i> journey through history" and Learning about "The Cosmos" with Carl Sagan and Neil deGrasse Tyson <i>(Earth is round period).</i></p>
-                    <p>Aesthete of Hindi Poetry <i>(sometimes I write as well)</i>, TBBT >>>>>> Any other Sitcom on Earth <i>(B99 Closing up the Gap)</i></p>
+                    <p>I'm a developer at a leading Investment Bank. Love solving real-world problems using technology. My experience's as a developer in the Financial Markets domain have made me realize how much of an impact a simple line of code can make <i>(Well, No one likes tech glitches in billions of $ transactions.).</i>Work in progress Software and Web Development Professional. My newfound interest in harnessing the power of data using Machine learning algorithms is still in the exploration phase excited to learn more about it.</p>
+                    <p>Apart from the above I like to explore "Homo Sapiens's <i>(The self-proclaimed wise men)</i> journey through history" and Learning about "The Cosmos" with Carl Sagan and Neil deGrasse Tyson <i>(Earth is round period)</i></p>
+                    <p>Aesthete of Hindi Poetry <i>(sometimes I write as well)</i>, TBBT &gt;&gt;&gt;&gt;&gt; Any other Sitcom on the Earth <i>(B99 Closing up the Gap)</i></p>
                     </div>
                 </div>
                 </div>
@@ -63,7 +63,6 @@ export default class About extends Component {
                 <div className="desc">
                     <h3>Problem Solving</h3>
                     <p>Provide Technological Solutions For Real World Problems</p>
-                    <br/>
                     <br/>
                 </div>
                 </div>
